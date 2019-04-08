@@ -1,0 +1,223 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+
+
+
+
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+/* === =======================================================*/
+
+
+
+
+
+
+body.container-fluid {
+    background-color: darkgrey; 
+    color: white;
+    height: 100%;
+    width:100%;
+    margin:0px;
+}
+
+.logo {
+    width: 25%;
+    margin: 20px auto;
+    display: block;
+    
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width:100%;
+    padding: 10px;    
+}
+
+.logo img-responsive{
+    height: auto;
+    width: 
+        
+    
+    
+}
+  
+ul{
+   list-style-type: none; 
+    margin:0; 
+    
+    
+    
+}
+
+li a{
+    display: inline-block
+}
+
+.background-image{
+    width:100%;
+    z-index:-2;
+    margin:0 auto;
+    display: block;
+}
+
+
+/*-------------------------------------- homepage -------------------------------*/
+
+.landing-page {
+    height: 80%;
+    color: black;
+    font-family:fantasy;
+}
+
+.mower{
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+    
+}
+
+
+#homepage{
+    font-size: 80px;
+    text-align: center;
+}
+
+#homepage2{
+    font-size: 60px;
+    text-align: center;
+}
+
+#homepage3{
+    font-size: 60px;
+    text-align: center; 
+}
+
+#homepage4{
+    font-size: 60px;
+    text-align: center; 
+    
+}
+
+
+
+
+
+
+
+
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+
+
+width: 
+
+================================================================== */
+
+.lorem-ipsum {
+    font-weight:bolder;
+    
+    font-family: calibri;
+}
+
+
+#the-blogs {
+    margin: 30px auto;
+    width: 80%;
+    text-align: left;
+    
+    color: black;
+}
+
+.blog-title {
+    color: black;
+    font-size: 35px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background-color:#054d02ff;
+  ;
+    padding: 10px 10px;
+    text-align: center;   
+}
+
+
+.blog-content{
+    
+     width: 80%;
+    background-color: white;
+    text-align: justify;
+    padding-bottom: 100px;
+    padding: 25px 25px;
+    margin: 30px auto;
+    display: block; 
+    color: black;
+}
+    
+    
+
+.topofpage{
+    margin:25px;
+}
+
+
+/*===============================Review page=========================================*/
+
+
+.aboutustitle{
+    color:black;
+}
+
+
+  .reviews{
+    width: 80%;
+    text-align: justify;
+    margin: 20px auto;
+    display: block; 
+    color: black;
+    
+}
+
+.review-info {
+    width: 80%;
+    display: block;
+    margin: 20px auto;
+}
+
+.review-pic {
+    display: block;
+    margin: 20px auto;
+    width: 75%;
+} 
+
+.aboutus{
+    margin: 20px auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-- Keep all your "styling and designs" organized with comments! --*/
+
